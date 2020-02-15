@@ -8,12 +8,21 @@ Service to obtain vehicle resources
      
      Install Gradle
      
-     In terminal execute: `./gradlew bootRun`  
+     In terminal execute: `./gradlew bootRun`
      
-* TODO
+     When the server is booted wait 10 seconds
+     
+     Every minute the process will run
+     
+     You can change these settings
+      
+     
+* TODO :
     
     Use CompletableFuture class
+    
     Use reactive programming with Spring Reactor or RxJava
+    
     Use Webhooks
 
 
